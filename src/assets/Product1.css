@@ -1,0 +1,35 @@
+.Product1 {
+  border: 1px solid black;
+  height: 250px;
+  width: 350px;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+.ProductTab1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.oldprice {
+  text-decoration: line-through;
+}
+.newprice {
+  font-weight: bolder;
+  font-size: larger;
+}
+.Price {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: antiquewhite;
+  height: 76px;
+  width: auto;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
