@@ -1,5 +1,11 @@
+import React from "react";
+
 function Description() {
-  return <h1>This is Description</h1>;
+  return (
+    <div>
+      <h1>this is discription</h1>
+    </div>
+  );
 }
- 
-export Description;
+
+export default Description;
